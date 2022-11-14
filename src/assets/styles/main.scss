@@ -1,0 +1,10 @@
+@use './partials/variables' as *;
+@import '@fontsource/montserrat/index.css'; 
+@import '@fontsource/montserrat/700.css';
+@import 'bootstrap/scss/bootstrap';
+
+
+body{
+    font-family: $main-font;
+    background-color: $bg-color;
+}

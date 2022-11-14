@@ -1,7 +1,6 @@
 <template>
-    <div>
+    <div>Sono la SearchBar</div>
 
-    </div>
 </template>
 
 <script>

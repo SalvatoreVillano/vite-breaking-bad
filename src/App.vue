@@ -2,7 +2,7 @@
   <HeaderComponent title="Breaking Bad API" />
   <main class="container">
     <SearchBar />
-    <CharacterList />
+    <CharacterList :characters="CharacterList" :loading="loading" />
   </main>
 </template>
 
